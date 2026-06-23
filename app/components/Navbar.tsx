@@ -10,10 +10,10 @@ export function Navbar() {
         </div>
         <div className="flex flex-col items-end gap-1">
           <span className="inline-flex items-center rounded-md border border-zinc-200 bg-zinc-100 px-2.5 py-0.5 font-mono text-xs font-semibold text-zinc-700">
-            v2.5 · MLLP :2575
+            v0.2.1 · MLLP :2575
           </span>
           <span className="inline-flex items-center rounded-md border border-zinc-200 bg-zinc-100 px-2.5 py-0.5 font-mono text-xs font-semibold text-zinc-700">
-            v2.5 · REST :8080
+            v0.2.1 · REST :8080
           </span>
         </div>
       </div>
